@@ -9,5 +9,5 @@ Hackintosh for HP ProDesk 400 G3 DM
  - RTC
 
 
-By @HawkysCC
+By [@HawkysCC](https://github.com/HawkysCC)
 
