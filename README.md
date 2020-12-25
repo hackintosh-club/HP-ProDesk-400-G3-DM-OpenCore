@@ -5,7 +5,8 @@ Hackintosh for HP ProDesk 400 G3 DM
 ### Known issues
 
  - Bluetooth 
- - WiFi RTC
+ - WiFi
+ - RTC
 
 
 By @HawkysCC
