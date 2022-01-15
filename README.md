@@ -16,6 +16,7 @@ Graphics:Intel HD 620
 WiFi:Broadcom BCM94352Z
 
 Current OS:macOS Monterey 12.2
+
 ![Xnip2022-01-15_09-25-11](https://user-images.githubusercontent.com/68485816/149603597-81a383f4-6193-4613-96b7-0467350d256f.jpg)
 
 
