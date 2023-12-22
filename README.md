@@ -1,4 +1,4 @@
-# HP ProDesk 400 G3 DM
+# HP ProDesk 400 G3 DM Hackintosh OpenCore
 **Product Specification:**
 
 CPU:Intel Core i7-7820HK(aka:QL3X)
