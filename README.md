@@ -11,11 +11,11 @@ Ethernet:Realtek RTL8111 Gbe LOM network connection
 
 Audio:Conexant CX20632 Audio Codec
 
-Graphics:Intel HD 620
+Graphics:Intel HD 630
 
 WiFi:Broadcom BCM94352Z
 
-Current OS:macOS Monterey 12.2
+Current OS: macOS Sonoma 14.2.1
 
 ![Xnip2022-01-15_09-25-11](https://user-images.githubusercontent.com/68485816/149603597-81a383f4-6193-4613-96b7-0467350d256f.jpg)
 
@@ -23,7 +23,7 @@ Current OS:macOS Monterey 12.2
 
 ### Known issues
 
- - RTC Error after every boot(but works)
+ - Please use OCLP to fix Broadcom WiFi
 
 
 By [@HawkysCC](https://github.com/HawkysCC)
