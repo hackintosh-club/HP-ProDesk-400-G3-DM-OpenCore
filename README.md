@@ -23,7 +23,7 @@ Current OS: macOS Sonoma 14.2.1
 
 ### Known issues
 
- - Please use OCLP to fix Broadcom WiFi
+ - Please use [OCLP](https://github.com/dortania/OpenCore-Legacy-Patcher/releases) to fix Broadcom WiFi
 
 
 By [@HawkysCC](https://github.com/HawkysCC)
