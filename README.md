@@ -16,9 +16,10 @@ Graphics:Intel HD 630
 WiFi:Broadcom BCM94352Z
 
 Current OS: macOS Sonoma 14.2.1
+![WechatIMG198](https://github.com/hackintosh-club/HP-ProDesk-400-G3-DM-OpenCore/assets/68485816/e88ddb0e-52a7-4a10-b7c7-3523e27f82e5)
 
-![Xnip2022-01-15_09-25-11](https://user-images.githubusercontent.com/68485816/149603597-81a383f4-6193-4613-96b7-0467350d256f.jpg)
 
+![Xnip2024-01-28_14-36-55](https://github.com/hackintosh-club/HP-ProDesk-400-G3-DM-OpenCore/assets/68485816/546e0e69-e579-417c-9fec-e663b13b489c)
 
 
 ### Known issues
