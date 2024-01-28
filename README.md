@@ -28,5 +28,5 @@ Current OS: macOS Sonoma 14.2.1
 
 
 By [@HawkysCC](https://github.com/HawkysCC)
-[@WuLongMiTaoLaiYiDa]https://github.com/WuLongMiTaoLaiYiDa
+[@WuLongMiTaoLaiYiDa](https://github.com/WuLongMiTaoLaiYiDa)
 
